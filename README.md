@@ -1,6 +1,6 @@
 
-https://kind.sigs.k8s.io/docs/user/quick-start/
-https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-deploy-elasticsearch.html
+* https://kind.sigs.k8s.io/docs/user/quick-start/
+* https://www.elastic.co/guide/en/cloud-on-k8s/current/k8s-deploy-elasticsearch.html
 
 ```
 kind create cluster --config threeworkers.yaml
